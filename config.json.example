@@ -1,0 +1,5 @@
+{
+	"base_preset_dir": "Path to your base vital preset dir here",
+	"bank_dir": "banks",
+	"delimiter": "$$"
+}
