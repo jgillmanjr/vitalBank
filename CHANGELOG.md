@@ -1,5 +1,10 @@
 Changelog
 =========
+## v0.02
+* Skins now supported
+* Refactor
+    * Created module
+    * Abstract `VitalObject` class created
 
 ## v0.01
 * The first version.
